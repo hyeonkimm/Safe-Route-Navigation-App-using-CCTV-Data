@@ -77,10 +77,10 @@ Future work focuses on improving safety-aware navigation using public safety inf
 
 # Screenshot
 <div align="center">
-<img width="300" height="533" alt="image" src="https://github.com/user-attachments/assets/9ca94faa-e009-46b0-ad97-1bb7c9e77830" />
-<img width="300" height="533" alt="image" src="https://github.com/user-attachments/assets/dd953629-99cc-4e07-81a5-3606e1a74fd1" />
+<img width="200" height="355" alt="image" src="https://github.com/user-attachments/assets/9ca94faa-e009-46b0-ad97-1bb7c9e77830" />
+<img width="200" height="355" alt="image" src="https://github.com/user-attachments/assets/dd953629-99cc-4e07-81a5-3606e1a74fd1" />
 <br><br>
-<img width="300" height="533" alt="image" src="https://github.com/user-attachments/assets/a3315249-89eb-48c7-935b-bac1c6b0fecc" />
-<img width="300" height="533" alt="image" src="https://github.com/user-attachments/assets/aa1f4d30-2788-441c-a3e5-62e277458e2a" />
-<img width="300" height="533" alt="image" src="https://github.com/user-attachments/assets/5da32f7c-f3bd-4e8d-996f-4e9dd69153df" />
+<img width="200" height="355" alt="image" src="https://github.com/user-attachments/assets/a3315249-89eb-48c7-935b-bac1c6b0fecc" />
+<img width="200" height="355" alt="image" src="https://github.com/user-attachments/assets/aa1f4d30-2788-441c-a3e5-62e277458e2a" />
+<img width="200" height="355" alt="image" src="https://github.com/user-attachments/assets/5da32f7c-f3bd-4e8d-996f-4e9dd69153df" />
 </div>
